@@ -16,4 +16,4 @@ public class chcase {
              System.out.println("Enter a english alphabet");
          }
      }
-}-
+    }

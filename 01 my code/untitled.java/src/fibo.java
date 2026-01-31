@@ -8,18 +8,18 @@ public class fibo {
 //       f(n) = f(n-1) + f(n-2)
        Scanner sc = new Scanner(System.in);
        int n = sc.nextInt();
-       int f_0 = 0;
-       int f_1 = 1;
-       int f_n = 0;
-       for(int i =0;i<=n;i++){
-           if (n ==0){
-               System.out.println(f_0);
-           } else if (n==1) {
-               System.out.println(f_1);
-           }
-           else {
-               f_n = f_1 + f_0;
-           }
+       int p = 0;
+       int i = 1;
+       int summ = 2;
+       while(summ <=n){
+           int temp = i;
+           i = i+p;
+           p = temp;
+           summ++;
        }
+       System.out.println("The fibo at n is " + i);
+
+
+
     }
 }
