@@ -7,7 +7,7 @@
 			"com.tldraw.asset": 1,
 			"com.tldraw.camera": 1,
 			"com.tldraw.document": 2,
-			"com.tldraw.instance": 25,
+			"com.tldraw.instance": 26,
 			"com.tldraw.instance_page_state": 5,
 			"com.tldraw.page": 1,
 			"com.tldraw.instance_presence": 6,
@@ -1521,7 +1521,7 @@
 			"editingShapeId": null,
 			"croppingShapeId": null,
 			"selectedShapeIds": [],
-			"hoveredShapeId": null,
+			"hoveredShapeId": "shape:mEs7BXmitnDhzWrkrpDrs",
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -2063,14 +2063,11 @@
 		{
 			"followingUserId": null,
 			"opacityForNextShape": 1,
-			"stylesForNextShape": {
-				"tldraw:size": "m",
-				"tldraw:color": "red"
-			},
+			"stylesForNextShape": {},
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
-				"type": "cross",
+				"type": "default",
 				"rotation": 0
 			},
 			"isFocusMode": false,
@@ -2080,8 +2077,8 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 1067.6923828125,
-				"h": 716.1538696289062
+				"w": 1247.6923828125,
+				"h": 719.2307739257812
 			},
 			"insets": [
 				false,
@@ -2104,6 +2101,7 @@
 			"isReadonly": false,
 			"meta": {},
 			"duplicateProps": null,
+			"cameraState": "idle",
 			"id": "instance:instance",
 			"currentPageId": "page:QZqMexe9VZyUj7qkr9Co7",
 			"typeName": "instance"
@@ -2456,9 +2454,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": -73.59492485580908,
-			"y": -2046.6205920782782,
-			"z": 0.9958694430199563,
+			"x": 1295.9620156708677,
+			"y": 332.7391905086596,
+			"z": 0.2616107887462667,
 			"meta": {},
 			"id": "camera:page:QZqMexe9VZyUj7qkr9Co7",
 			"typeName": "camera"
