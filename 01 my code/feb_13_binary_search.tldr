@@ -394,9 +394,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 209.85566773601477,
-			"y": -2093.624757126689,
-			"z": 0.6713961482325294,
+			"x": 296.71944779445636,
+			"y": 1070.9576280501046,
+			"z": 0.44482417456640067,
 			"meta": {},
 			"id": "camera:page:8PtgMkBLFY8owDdCNmiQg",
 			"typeName": "camera"
@@ -1811,9 +1811,9 @@
 			"typeName": "shape"
 		},
 		{
-			"x": -113.99999908300538,
-			"y": -739.000002017388,
-			"z": 1,
+			"x": 861.9328166602453,
+			"y": -378.1611406190714,
+			"z": 0.5415516934575767,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
@@ -3857,9 +3857,7 @@
 		{
 			"editingShapeId": null,
 			"croppingShapeId": null,
-			"selectedShapeIds": [
-				"shape:xjI0Ze8TVLwEwpYEhxgth"
-			],
+			"selectedShapeIds": [],
 			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
@@ -8060,7 +8058,7 @@
 			"editingShapeId": null,
 			"croppingShapeId": null,
 			"selectedShapeIds": [],
-			"hoveredShapeId": "shape:Srn-qjoCAN7aNuzS3gZGX",
+			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -9135,11 +9133,8 @@
 			"followingUserId": null,
 			"opacityForNextShape": 1,
 			"stylesForNextShape": {
-				"tldraw:size": "m",
-				"tldraw:color": "black",
-				"tldraw:arrowheadEnd": "arrow",
-				"tldraw:geo": "rectangle",
-				"tldraw:arrowheadStart": "none"
+				"tldraw:color": "light-violet",
+				"tldraw:size": "s"
 			},
 			"brush": null,
 			"scribbles": [],
@@ -9180,7 +9175,7 @@
 			"duplicateProps": null,
 			"cameraState": "idle",
 			"id": "instance:instance",
-			"currentPageId": "page:8PtgMkBLFY8owDdCNmiQg",
+			"currentPageId": "page:page",
 			"typeName": "instance"
 		},
 		{
@@ -9423,12 +9418,10 @@
 			"typeName": "shape"
 		},
 		{
-			"editingShapeId": "shape:hBNymDNPBF1fWyTtGYdQp",
+			"editingShapeId": null,
 			"croppingShapeId": null,
-			"selectedShapeIds": [
-				"shape:hBNymDNPBF1fWyTtGYdQp"
-			],
-			"hoveredShapeId": "shape:hBNymDNPBF1fWyTtGYdQp",
+			"selectedShapeIds": [],
+			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
